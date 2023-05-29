@@ -1,0 +1,521 @@
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>Mastery a Education Category Bootstrap Responsive Website Template | About :: JP Techno Park</title>
+    <!-- web fonts -->
+    <link href="//fonts.googleapis.com/css?family=Work+Sans:100,200,300,400,500,600,700,800,900&display=swap" rel="stylesheet">
+    <!-- //web fonts -->
+    <!-- Template CSS -->
+    <link rel="stylesheet" href="assets/css/style-starter.css">
+  </head>
+  <body>
+
+
+<!-- Top Menu 1 -->
+<section class="w3l-top-menu-1">
+	<div class="top-hd">
+		<div class="container">
+	<header class="row top-menu-top">
+		<div class="accounts col-md-9 col-6">
+				<li class="top_li"><span class="fa fa-phone"></span><a href="tel:<"+199098893975">+19909889397</a> </li>
+				<li class="top_li1"><span class="fa fa-envelope-o"></span> <a href="mailto:-gwpcjabalpurinfo@gmail.com" class="mail">gwpcjabalpurinfo@gmail.com" </a>
+	</li>
+		</div>
+		<div class="social-top col-md-3 col-6">
+			<a href="contact.html" class="btn btn-secondary btn-theme4">Apply Now</a>
+		</div>
+	</header>
+</div>
+</div>
+</section>
+<!-- //Top Menu 1 -->
+<section class="w3l-bootstrap-header">
+  <nav class="navbar navbar-expand-lg navbar-light py-lg-2 py-2">
+    <div class="container">
+      <a class="navbar-brand" href="index.html"><span class="fa fa-pencil-square-o "></span> Diploma</a>
+      <!-- if logo is image enable this   
+    <a class="navbar-brand" href="#index.html">
+        <img src="image-path" alt="Your logo" title="Your logo" style="height:35px;" />
+    </a> -->
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon fa fa-bars"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mx-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="about.html">About</a>
+          </li>
+            <li class="nav-item">
+            <a class="nav-link" href="services.html">Services</a>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="contact.html">Contact</a>
+          </li>
+        </ul>
+        <form action="search-results.html" class="form-inline position-relative my-2 my-lg-0">
+          <input class="form-control search" type="search" placeholder="Search here..." aria-label="Search" required="">
+          <button class="btn btn-search position-absolute" type="submit"><span class="fa fa-search" aria-hidden="true"></span></button>
+        </form>
+      </div>
+    </div>
+  </nav>
+</section>
+<section class="w3l-about-breadcrum">
+  <div class="breadcrum-bg py-sm-5 py-4">
+    <div class="container py-lg-3">
+      <h2>About Us</h2>
+      <p><a href="index.html">Home</a> &nbsp; / &nbsp; About</p>
+    </div>
+  </div>
+</section>
+<!-- content-with-photo4 block -->
+<section class="w3l-content-with-photo-4">
+    <div id="content-with-photo4-block" class="pt-5"> 
+        <div class="container py-md-5">
+            <div class="cwp4-two row">
+               
+                <div class="cwp4-text col-lg-6">
+                        <h3>About Our Institution</h3>
+                    <p>   The Government Women’s Polytechnic, Jabalpur for Women was started in 1990. Since then, the college has developed into a big Educational Institute of Jabalpur. Spread over 10.5 acres of land, it is one of the biggest colleges of M P . Building is designed very artistically, is well ventilated and spacious. The five gardens are the best hangouts for the students in their free time. The College has big playgrounds and courts for Basket-ball, Volley-ball etc. The Classrooms are equipped with close circuit cameras, thus permitting close monitoring of teaching, examinations and other activities in various rooms simultaneously by the Principal. The hostel is located in the college campus making it safer and convenient for the students.               </p>
+                  
+                    <ul class="cont-4">
+                        <li><span class="fa fa-check"></span>Computer Science</li>
+               <li><span class="fa fa-check"></span> MOM </li>         <li><span class="fa fa-check"></span> faishon Designing </li>
+                        <li><span class="fa fa-check"></span >Travel and Turiosum </li>
+                        <li><span class="fa fa-check"></span>Electrical </li>
+                    </ul>
+                </div>
+                <div class="cwp4-image col-lg-6 pl-lg-5 mt-lg-0 mt-5">
+                    <img src="assets/images/g4.jpg" class="img-fluid" alt="" />
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- content-with-photo4 block -->
+<section class="w3l-features-1">
+	<!-- /features -->
+		<div class="features py-4">
+            <div class="container pb-5">
+			
+			<div class="fea-gd-vv row ">	
+			   <div class="float-lt feature-gd col-lg-4 col-sm-6">	
+					
+					 <div class="icon-info">
+						<h5>Over 100 Facalties</h5>
+					
+				<p>This enchanting description of a classroom at the fictitious Govt. Polytechnic College Jabalpur captures three fundamental ideas from the environmental psychology of teaching and learning. First, all learning takes place in a physical environment with quantifiable and perceptible physical characteristics. Whether sitting in a large lecture hall, underneath a tree, or in front of a computer screen, students are engulfed by environmental information. Specific targets within the environment draw the students’ attention, such as armchairs, scarves, and teacups, and they continuously monitor the ambient properties such as the light of the lamps, the smell of the kettle, and the warmth of the fire. In any learning environment students are awash in environmental information, only a small fraction of which constitutes the sights and sounds of instruction.
+					</p>
+                                                                      </div>
+					 
+				</div>	
+				<div class="float-mid feature-gd col-lg-4 col-sm-6 mt-sm-0 mt-4">	
+					
+					 <div class="icon-info">
+						<h5>PHYSICAL INFRASTRUCTURE
+                                                                                        </h5>
+						<p>Campus:
+
+Total Land 10.5 acres. 
+Hostel 03. 
+Warden’s Residence 01.
+Gardens 01.  
+Vehicle stand 01.
+Canteen 01. 
+
+Main Building:
+
+Principal’s Chamber & Office. 
+Departments 5 ~ 750 sqm each.
+Classrooms 44 Equipped with close circuit cameras.
+Laboratories 10.
+Common Room 02.
+Conference Hall 01.
+Seminar Room 01.
+Central Laboratory 01.
+Auditorium 01.
+
+Library:
+
+Total Books Over 10000 . 
+Book Bank 10000.
+Magazines & Newspapers 25.
+P G Library ~1000 (In the respective Departments).
+
+Reading Room:
+
+Variety of News Papers and Magazines are available..
+Privilege of open “shelf system” . 
+
+ICT Infrastructure:
+
+Automation Cell: Customized application software for college management .
+Structured Local Area Networking connecting Departments & Office with the main server.
+Central Computer Laboratory for add on course “ Computer Basics”. 
+
+Sports:
+
+Gymnasium. 
+Indoor Badminton Court.
+Basket Ball Court. 
+Volley Ball Court.
+Ground for track & field events.
+
+Hostel:
+
+No of Buildings 03. 
+						</p>
+					</div>
+			 </div> 
+				<div class="float-rt feature-gd col-lg-4 col-sm-6 mt-lg-0 mt-4">	
+					
+					 <div class="icon-info">
+						<h5>We Have great Students</h5>
+						<p>Campus
+Students of our college are professionally trained by subject experts so that they are placed in good organizations at good and respected positions.
+
+We provide career guidance and counseling at regular interval to keep our students updated with latest openings and opportunities.
+
+
+
+						</p>
+					</div>
+			 </div>	 
+			 	
+		</div>  
+		 </div>
+	   </div>
+   <!-- //features -->
+</section>
+<section class="w3l-feature-2">
+		<div class="grid top-bottom py-5">
+			<div class="container py-md-5">
+				<div class="heading text-center mx-auto">
+					<h3 class="head">Why Choose Our Institution</h3>
+					<p class="my-3 head"> “College has very good academic reputation”
+					.</p>
+					  
+				  </div>
+				<div class="middle-section row mt-5 pt-3">
+					<div class="three-grids-columns col-lg-3 col-sm-6 text-center">
+						<div class="icon"> <span class="fa fa-graduation-cap" aria-hidden="true"></span></div>
+						<h4>Scholarship Facility</h4>
+						<p>Scholarship Eligibility Criteria 2016-17 
+Student’s parents’ annual income should not be above 2 lac.
+Students should not apply for any other scholarship Scheme
+Association provides 40% reservation in Scholarship for Girls.
+Candidate must contain 50% marks in the previous Examination.
+</p>
+					</div>
+					<div class="three-grids-columns col-lg-3 col-sm-6 mt-sm-0 mt-5 text-center">
+						<div class="icon"> <span class="fa fa-user" aria-hidden="true"></span></div>
+						<h4>Skilled Lecturers</h4>
+						<p>Teaching-Learning activities are carried out as per the guidelines of RGPV. Special efforts are made to provide coaching to the students of weaker sections and SC/ST category. Each academic year is divided into two semester of 90 working days each. The semester end examination is open to regular students putting in at least 80% attendance in both theory & practical classes</p>
+					</div>
+					<div class="three-grids-columns col-lg-3 col-sm-6 mt-lg-0 mt-5 text-center">
+						<div class="icon"> <span class="fa fa-book" aria-hidden="true"></span></div>
+						<h4> Library & Store</h4>
+						<p>The library occupies a prominent position and it is an important and integral part of the teaching programme. It is not merely a depository of books, but an active workshop instrument in the production of or original thinking. The aim of college education and college libraries in inter-related. College library extends opportunities for self-education to the deserving and enthusiastic students without any distinction. These libraries develop in each student a sense of responsibility in the pursuit of knowledge. College library stimulates the students to obtain, evaluate and recognize knowledge and to familiarize themselves with the trends of knowledge for further education and learning new disciplines.
+</p>
+					</div>
+					<div class="three-grids-columns col-lg-3 col-sm-6 mt-lg-0 mt-5 text-center">
+						<div class="icon"> <span class="fa fa-bed" aria-hidden="true"></span></div>
+						<h4>Hostel Facilities</h4>
+						<p> Many Years after the establishment of the college it was decided to provide hostel facility to the students coming from different places and First hostel building was constructed in the year 1995. The first superintendent was the founder principal of the college.
+
+The college has one hostel building in the premises accommodating 75 students coming from near by areas & other states. All the three blocks are connected through a gallery , however the administration & mess facility is centralized. The hostel provides high degree of security & good facilities.
+
+The motto of the hostel is “Home away from Home”. The hostel wardens and “care takers” pay personal attention & ensure healthy environment in the hostel. Facilities like food purified drinking water, entertainment, telephone, are integral part of the hostel. The health facility includes the daily visit of a doctor in the evening & also on call , in case of emergency. The hostel rooms are spacious, with proper ventilation & lighting facilities and are well furnished.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+<section class="teams-1">
+<section class="teams text-center py-5" id="team">
+		<div class="container py-xl-5 py-lg-3">
+			<div class="heading text-center mx-auto">
+				<h3 class="head">Our Skilled Instructors</h3>
+				<p class="my-3 head">When faculty teach more effectively, students perform better in the classroom.
+ </p>
+				  
+			  </div>
+			<div class="row inner-sec-w3ls-w3pvt-aminfo pt-5 mt-3">
+				<div class="col-lg-3 col-sm-6">
+					<div class="team-grid text-center">
+						<div class="team-img">
+							<img class="img-fluid rounded" src="assets/images/t1.jpg" alt="">
+						</div>
+						<div class="team-info">
+							<h4>teacher 1</h4>
+							<ul class="d-flex justify-content-center py-3 social-icons">
+								<li class="effect-soc-team1">
+									<a href="#">
+										<span class="fa fa-facebook-f"></span>
+									</a>
+								</li>
+								<li class="effect-soc-team2">
+									<a href="#">
+										<span class="fa fa-twitter"></span>
+									</a>
+								</li>
+								<li class="effect-soc-team3">
+									<a href="#">
+										<span class="fa fa-google-plus"></span>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-sm-6 top-tem">
+					<div class="team-grid text-center">
+						<div class="team-img">
+							<img class="img-fluid rounded" src="assets/images/t2.jpg" alt="">
+						</div>
+						<div class="team-info">
+							<h4>teacher 2</h4>
+							<ul class="d-flex justify-content-center py-3 social-icons">
+								<li class="effect-soc-team1">
+									<a href="#">
+										<span class="fa fa-facebook-f"></span>
+									</a>
+								</li>
+								<li class="effect-soc-team2">
+									<a href="#">
+										<span class="fa fa-twitter"></span>
+									</a>
+								</li>
+								<li class="effect-soc-team3">
+									<a href="#">
+										<span class="fa fa-google-plus"></span>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-sm-6  mt-sm-0 mt-5">
+					<div class="team-grid text-center">
+						<div class="team-img">
+							<img class="img-fluid rounded" src="assets/images/t3.jpg" alt="">
+						</div>
+						<div class="team-info">
+							<h4>teacher3</h4>
+							<ul class="d-flex justify-content-center py-3 social-icons">
+								<li class="effect-soc-team1">
+									<a href="#">
+										<span class="fa fa-facebook-f"></span>
+									</a>
+								</li>
+								<li class="effect-soc-team2">
+									<a href="#">
+										<span class="fa fa-twitter"></span>
+									</a>
+								</li>
+								<li class="effect-soc-team3">
+									<a href="#">
+										<span class="fa fa-google-plus"></span>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-sm-6 top-tem">
+					<div class="team-grid text-center">
+						<div class="team-img">
+							<img class="img-fluid rounded" src="assets/images/t4.jpg" alt="">
+						</div>
+						<div class="team-info">
+							<h4>teacher4</h4>
+							<ul class="d-flex justify-content-center py-3 social-icons">
+								<li class="effect-soc-team1">
+									<a href="#">
+										<span class="fa fa-facebook-f"></span>
+									</a>
+								</li>
+								<li class="effect-soc-team2">
+									<a href="#">
+										<span class="fa fa-twitter"></span>
+									</a>
+								</li>
+								<li class="effect-soc-team3">
+									<a href="#">
+										<span class="fa fa-google-plus"></span>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	</section>
+<!-- grids block 5 -->
+<section class="w3l-footer-29-main">
+  <div class="footer-29">
+      <div class="container">
+          <div class="d-grid grid-col-4 footer-top-29">
+              <div class="footer-list-29 footer-1">
+                  <h6 class="footer-title-29">Contact Us</h6>
+                  <ul>
+                      <li><p><span class="fa fa-map-marker"></span> Lalit Colony, Ghamapur, Jabalpur, Madhya Pradesh.</p></li>
+                      <li><a href="tel:+7-800-999-800"><span class="fa fa-phone"></span> ++91-761-2623519</a></li>
+                      <li><a href="mailto:gwpcjabalpurinfo@gmail.com" class="mail"><span class="fa fa-envelope-open-o"></span> corporate-mail@support.com</a></li>
+                  </ul>
+                  <div class="main-social-footer-29">
+                      <a href="#facebook" class="facebook"><span class="fa fa-facebook"></span></a>
+                      <a href="#twitter" class="twitter"><span class="fa fa-twitter"></span></a>
+                      <a href="#instagram" class="instagram"><span class="fa fa-instagram"></span></a>
+                      <a href="#google-plus" class="google-plus"><span class="fa fa-google-plus"></span></a>
+                      <a href="#linkedin" class="linkedin"><span class="fa fa-linkedin"></span></a>
+                  </div>
+              </div>
+              <div class="footer-list-29 footer-2">
+                  <ul>
+                      <h6 class="footer-title-29">Featured Links</h6>
+                      <li><a href="contact.html">Graduation</a></li>
+                      <li><a href="contact.html">Admissions</a></li>
+                      <li><a href="contact.html">Book Store</a></li>
+                      <li><a href="contact.html">International</a></li>
+                      <li><a href="contact.html">Courses</a></li>
+                  </ul>
+              </div>
+              <div class="footer-list-29 footer-3">
+                 
+                  <h6 class="footer-title-29">Newsletter </h6>
+          <form action="#" class="subscribe" method="post">
+            <input type="email" name="email" placeholder="Email" required="">
+            <button><span class="fa fa-envelope-o"></span></button>
+          </form>
+          <p>Subscribe and get our weekly newsletter</p>
+          <p>We'll never share your email address</p>
+        
+              </div>
+              <div class="footer-list-29 footer-4">
+                  <ul>
+                      <h6 class="footer-title-29">Quick Links</h6>
+                      <li><a href="index.html">Home</a></li>
+                      <li><a href="about.html">About</a></li>
+                      <li><a href="services.html">Services</a></li>
+                      <li><a href="#"> Blog</a></li>
+                      <li><a href="contact.html">Contact</a></li>
+                  </ul>
+              </div>
+          </div>
+          <div class="d-grid grid-col-2 bottom-copies">
+            <p class="copy-footer-29">© Sample Template. All rights reserved | Designed by <a href="https://Anusha Hardaha"> Anusha Hardaha</a></p>  
+               <ul class="list-btm-29">
+                    
+            
+
+                       <li><a href="#link">Privacy policy</a></li>
+                      <li><a href="#link">Terms of service</a></li>
+                      
+                  </ul>
+          </div>
+      </div>
+  </div>
+  <!-- move top -->
+  <button onclick="topFunction()" id="movetop" title="Go to top">
+    <span class="fa fa-angle-up"></span>
+  </button>
+  <script>
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function () {
+      scrollFunction()
+    };
+
+    function scrollFunction() {
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+        document.getElementById("movetop").style.display = "block";
+      } else {
+        document.getElementById("movetop").style.display = "none";
+      }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+      document.body.scrollTop = 0;
+      document.documentElement.scrollTop = 0;
+    }
+  </script>
+  <!-- /move top -->
+</section>
+<script src="assets/js/jquery-3.3.1.min.js"></script>
+<!-- //footer-28 block -->
+</section>
+<script>
+  $(function () {
+    $('.navbar-toggler').click(function () {
+      $('body').toggleClass('noscroll');
+    })
+  });
+</script>
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+  integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous">
+</script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+  integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous">
+</script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+  integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous">
+</script>
+
+<!-- Template JavaScript -->
+<script src="assets/js/all.js"></script>
+<!-- Smooth scrolling -->
+<!-- <script src="assets/js/smoothscroll.js"></script> -->
+<script src="assets/js/owl.carousel.js"></script>
+
+<!-- script for -->
+<script>
+  $(document).ready(function () {
+    $('.owl-one').owlCarousel({
+      loop: true,
+      margin: 0,
+      nav: true,
+      responsiveClass: true,
+      autoplay: false,
+      autoplayTimeout: 5000,
+      autoplaySpeed: 1000,
+      autoplayHoverPause: false,
+      responsive: {
+        0: {
+          items: 1,
+          nav: false
+        },
+        480: {
+          items: 1,
+          nav: false
+        },
+        667: {
+          items: 1,
+          nav: true
+        },
+        1000: {
+          items: 1,
+          nav: true
+        }
+      }
+    })
+  })
+</script>
+<!-- //script -->
+
+</body>
+
+</html>
+<!-- // grids block 5 -->
